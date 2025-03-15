@@ -5,7 +5,7 @@
 
 <img src="Banner.jpeg">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/adriana-rojas03/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/adriana-rojas03)
 [![GitHub followers](https://img.shields.io/github/followers/Adriana_Rojas0?style=social)](https://github.com/Adriana-Rojas0)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
