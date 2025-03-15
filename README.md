@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Adriana Rojas 👋</h1>
 </div>
 
-<img src="">
+<img src="Banner.jpeg">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/adriana-rojas03/)
 [![GitHub followers](https://img.shields.io/github/followers/Adriana_Rojas0?style=social)](https://github.com/Adriana-Rojas0)
