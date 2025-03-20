@@ -152,6 +152,6 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <p align="center">
 <a href="https://github.com/Adriana-Rojas0">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adriana-Rojas0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adriana-Rojas0a&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adriana-Rojas0&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
