@@ -8,9 +8,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/Adriana_Rojas0?style=social)](https://github.com/Adriana-Rojas0)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
+
  ## Sobre Mi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
 ⭐ Soy una programadora web apasionada y creativa con conocimiento en los siguientes lenguajes de programación ⭐ 
+
+ <img align="right" width=400px height="400px" alt="Codigo" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVhM3R1cWthcHp1Y3N6djZwa2R6M3F4d3ZqZzRzYWFjMW00c21uOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
 
 - HTML
 - CSS
@@ -147,8 +150,8 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Adriana-Rojas0">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adriana-Rojas0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adriana-Rojas0a&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
