@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Adriana Rojas 👋</h1>
+<h1 align="center">Hola, soy Adriana Rojas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
 <img src="Banner.jpeg">
@@ -8,9 +8,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/Adriana_Rojas0?style=social)](https://github.com/Adriana-Rojas0)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mi
+ ## Sobre Mi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
-⭐ Soy una programadora web apasionada y creativa con conocimiento en lenguajes de programación ⭐ 
+⭐ Soy una programadora web apasionada y creativa con conocimiento en los siguientes lenguajes de programación ⭐ 
 
 - HTML
 - CSS
