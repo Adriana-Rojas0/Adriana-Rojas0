@@ -72,9 +72,9 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Porfolio</h3>
+<h3 align="center">Mi Primera Web</h3>
 <div align="center">
-<a href="https://github.com/Adriana-Rojas0/Adriana-Rojas0/edit/main/README.md" target="_blank"><img src="" width="400" alt="JavaScript"></a>
+<a href="https://github.com/Adriana-Rojas0/Adriana-Rojas0/edit/main/README.md" target="_blank"><img src="Proyecto1.png" width="400" alt="JavaScript"></a>
 <p>
 <a href="https://adriana-rojas0.github.io/Adriana_Rojas1_TrabajoJAVASCRIPT/" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -83,26 +83,26 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Mi proyecto es un sitio web tipo portfolio. Trabajo en el utilizando tecnologías como JSON, JavaScript, HTML y CSS, integrando elementos dinámicos como formularios, Google Maps y galerías. Está enfocado en soluciones atractivas y funcionales en el ámbito del Front-End, con el objetivo de mejorar la experiencia del usuario.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Web Coffee</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https:" target="_blank"><img src="" width="400" alt="Coffee"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Este proyecto es una plataforma web adaptable, desarrollada con Django, que recrea la experiencia digital de un café contemporáneo. La aplicación cuenta con una galería de productos, un formulario de contacto interactivo y un panel de administración intuitivo. Con un backend robusto en Python/Django, el sistema gestiona pedidos y consultas de manera eficiente, asegurando un entorno ágil y seguro para su despliegue en producción.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -111,26 +111,26 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Store</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://" target="_blank"><img src="" width="400" alt="Store"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Esta web es una tienda de guitarra ...</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Portfolio</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="" target="_blank"><img src="" width="400" alt="portfolio"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -139,7 +139,9 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p><strong>Bienvenido a mi portfolio</strong><br>
+Soy una apasionada del desarrollo web con experiencia en la creación de interfaces dinámicas y atractivas. En este espacio, comparto mi trayectoria, desde mi formación hasta los proyectos en los que he trabajado. Cada proyecto ha sido una oportunidad para aprender, innovar y perfeccionar mis habilidades en el desarrollo Front-End.
+En este sitio muestro no solo lo que he construido, sino también mi visión sobre la creación de experiencias digitales que marquen la diferencia. Explora mi trabajo y descubre cómo puedo aportar valor a nuevos desafíos.</p>
 </div>
                                                                                       
 </td>  
