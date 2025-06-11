@@ -83,7 +83,7 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Mi proyecto es un sitio web tipo portfolio. Trabajo en el utilizando tecnologías como JSON, JavaScript, HTML y CSS, integrando elementos dinámicos como formularios, Google Maps y galerías. Está enfocado en soluciones atractivas y funcionales en el ámbito del Front-End, con el objetivo de mejorar la experiencia del usuario.</p>
+<p>Mi proyecto es un sitio web tipo portfolio. Trabajo en el utilizando <strong>tecnologías como JSON, JavaScript, HTML y CSS, integrando elementos dinámicos como formularios, Google Maps y galerías</strong>. Está enfocado en soluciones atractivas y funcionales en el ámbito del Front-End, con el objetivo de mejorar la experiencia del usuario.</p>
 </div>
                                                                                       
 </td>
@@ -102,7 +102,7 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Este proyecto es una plataforma web adaptable, desarrollada con Django, que recrea la experiencia digital de un café contemporáneo. La aplicación cuenta con una galería de productos, un formulario de contacto interactivo y un panel de administración intuitivo. Con un backend robusto en Python/Django, el sistema gestiona pedidos y consultas de manera eficiente, asegurando un entorno ágil y seguro para su despliegue en producción.</p>
+</p>Este proyecto es una <strong>plataforma web adaptable, desarrollada con Django</strong>, que recrea la experiencia digital de un café contemporáneo. La aplicación cuenta con una galería de productos, un formulario de contacto interactivo y un panel de administración intuitivo. Con un backend robusto en Python/Django, el sistema gestiona pedidos y consultas de manera eficiente, asegurando un entorno ágil y seguro para su despliegue en producción.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -122,7 +122,7 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Esta web es una tienda de guitarra ...</p>
+<p>Esta web es una <strong>tienda online de guitarras construida con React</strong>. Permite a los usuarios ver una colección de guitarras, agregarlas a un carrito de compras, modificar la cantidad de cada producto, eliminar productos del carrito y vaciar el carrito por completo. El estado del carrito y la colección de productos se maneja con React hooks. El diseño está basado en Bootstrap y estilos personalizados definidos en App.css. La aplicación se inicia desde main.jsx y se configura con Vite para un desarrollo rápido.</p>
 </div>
                                                                                       
 </td>       
