@@ -151,7 +151,7 @@ En este sitio muestro no solo lo que he construido, sino también mi visión sob
   <td width="50%">
 <h3 align="center">Calculator</h3>
 <div align="center">
-<a href="" target="_blank"><img src="porfolio.png" width="400" alt="portfolio"></a>
+<a href="" target="_blank"><img src="calculator.png" width="400" alt="portfolio"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -168,7 +168,7 @@ En este sitio muestro no solo lo que he construido, sino también mi visión sob
   <td width="50%">
 <h3 align="center">Máquinas Virtuales</h3>
 <div align="center">
-<a href="" target="_blank"><img src="porfolio.png" width="400" alt="portfolio"></a>
+<a href="" target="_blank"><img src="VirtualBox_Ubuntu.png" width="400" alt="portfolio"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
