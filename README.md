@@ -85,10 +85,8 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <a href="https://github.com/Adriana-Rojas0/Adriana-Rojas0/edit/main/README.md" target="_blank"><img src="Proyecto1.png" width="400" alt="JavaScript"></a>
 <p>
 <a href="https://adriana-rojas0.github.io/Adriana_Rojas1_TrabajoJAVASCRIPT/" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<br>
+<img src="https://img.shields.io/badge/Ver_en_GitHub-F2F2F2?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Mi proyecto es un sitio web tipo portfolio. Trabajo en el utilizando <strong>tecnologías como JSON, JavaScript, HTML y CSS, integrando elementos dinámicos como formularios, Google Maps y galerías</strong>. Está enfocado en soluciones atractivas y funcionales en el ámbito del Front-End, con el objetivo de mejorar la experiencia del usuario.</p>
@@ -104,11 +102,8 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <br>
 <p>
 <a href="https://adriana-rojas0.github.io/Web-Cafe/" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
+<br>
+<img src="https://img.shields.io/badge/Ver_en_GitHub-E6A756?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p>Este proyecto es una <strong>plataforma web adaptable, desarrollada con Django</strong>, que recrea la experiencia digital de un café contemporáneo. La aplicación cuenta con una galería de productos, un formulario de contacto interactivo y un panel de administración intuitivo. Con un backend robusto en Python/Django, el sistema gestiona pedidos y consultas de manera eficiente, asegurando un entorno ágil y seguro para su despliegue en producción.</p>
 </div>                                                             
@@ -124,11 +119,8 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <a href="https://" target="_blank"><img src="store.png" width="400" alt="Store"></a>
 <p>
 <a href="https://adriana-rojas0.github.io/Store/" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
+<br>
+<img src="https://img.shields.io/badge/Ver_en_GitHub-E99401?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p>Esta web es una <strong>tienda online de guitarras construida con React</strong>. Permite a los usuarios ver una colección de guitarras, agregarlas a un carrito de compras, modificar la cantidad de cada producto, eliminar productos del carrito y vaciar el carrito por completo. El estado del carrito y la colección de productos se maneja con React hooks. El diseño está basado en Bootstrap y estilos personalizados definidos en App.css. La aplicación se inicia desde main.jsx y se configura con Vite para un desarrollo rápido.</p>
 </div>
@@ -141,11 +133,8 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <a href="" target="_blank"><img src="porfolio.png" width="400" alt="portfolio"></a>
 <p>
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
+<br>
+<img src="https://img.shields.io/badge/Ver_en_GitHub-B332AB?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p><strong>Bienvenido a mi portfolio</strong><br>
 Soy una apasionada del desarrollo web con experiencia en la creación de interfaces dinámicas y atractivas. En este espacio, comparto mi trayectoria, desde mi formación hasta los proyectos en los que he trabajado. Cada proyecto ha sido una oportunidad para aprender, innovar y perfeccionar mis habilidades en el desarrollo Front-End.
@@ -162,11 +151,8 @@ En este sitio muestro no solo lo que he construido, sino también mi visión sob
 <a href="" target="_blank"><img src="calculator.png" width="400" alt="portfolio"></a>
 <p>
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
+<br>
+<img src="https://img.shields.io/badge/Ver_en_GitHub-00D5BE?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p><strong>Calculator, React/TypeScript.</strong> Esta web es una calculadora de propinas desarrollada con <strong>React y TypeScript</strong>. Permite a los usuarios seleccionar productos de un menú, agregarlos a una orden, ver el resumen de lo pedido, elegir el porcentaje de propina y calcular el total a pagar, incluyendo la propina. La interfaz está dividida en dos partes: el menú de productos y el resumen de la orden, donde se puede modificar la selección y calcular el pago final. Para los estilos visuales se utiliza <strong>Tailwind CSS</strong>. Es una herramienta moderna y visualmente atractiva, ideal para calcular fácilmente el pago total en restaurantes o cafeterías.</p>
 </div>                                                                                    
@@ -179,11 +165,8 @@ En este sitio muestro no solo lo que he construido, sino también mi visión sob
 <a href="" target="_blank"><img src="VirtualBox_Ubuntu.png" width="400" alt="portfolio"></a>
 <p>
 <a href="https://github.com/Adriana-Rojas0" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
+<br>
+<img src="https://img.shields.io/badge/Ver_en_GitHub-553446?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p><strong>Máquinas Virtuales, Servidores Web (Apache)</strong> La creación de MVpermiten ejecutar un sistema operativo y aplicaciones como si estuvieran en un hardware físico independiente. Además, la implementación de un virtual hot y medidas de seguridad como HTTPS, SST y la desactivación del listado de directorios ayuda a proteger la información de los usuarios y garantiza la confiabilidad del sitio web. En general, las MV facilitan el desarrollo de aplicaciones y sitios web, ofreciendo un entorno seguro y eficiente.</p>
 </div>                                                                                    
