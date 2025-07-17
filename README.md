@@ -132,7 +132,7 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <div align="center">
 <a href="" target="_blank"><img src="porfolio.png" width="400" alt="portfolio"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/Adriana-Rojas0 target="_blank">
 <br>
 <img src="https://img.shields.io/badge/Ver_en_GitHub-B332AB?style=for-the-badge&logo=github&logoColor=black">
 </p>
@@ -150,7 +150,7 @@ En este sitio muestro no solo lo que he construido, sino también mi visión sob
 <div align="center">
 <a href="" target="_blank"><img src="calculator.png" width="400" alt="portfolio"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/Adriana-Rojas0 target="_blank">
 <br>
 <img src="https://img.shields.io/badge/Ver_en_GitHub-00D5BE?style=for-the-badge&logo=github&logoColor=black">
 </p>
