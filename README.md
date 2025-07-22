@@ -79,10 +79,10 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 ## Proyectos 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 <h3 align="center">Mi Primera Web</h3>
 <div align="center">
-<a href="https://github.com/Adriana-Rojas0/Adriana-Rojas0/edit/main/README.md" target="_blank"><img src="Proyecto1.png" width="400" alt="JavaScript"></a>
+<a href="https://adriana-rojas0.github.io/Adriana_Rojas1_TrabajoJAVASCRIPT/" target="_blank""><img src="Proyecto1.png" width="80%" alt="JavaScript"></a>
 <p>
 <a href="https://adriana-rojas0.github.io/Adriana_Rojas1_TrabajoJAVASCRIPT/" target="_blank">
 <br>
@@ -90,15 +90,17 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 </a>
 </p>
 <p>Mi proyecto es un sitio web tipo portfolio. Trabajo en el utilizando <strong>tecnologías como JSON, JavaScript, HTML y CSS, integrando elementos dinámicos como formularios, Google Maps y galerías</strong>. Está enfocado en soluciones atractivas y funcionales en el ámbito del Front-End, con el objetivo de mejorar la experiencia del usuario.</p>
-</div>
-                                                                                      
+</div>                                                                                     
 </td>
+</tr>
+</table>
 
-<td width="50%">
-               <br>
+<table>
+<tr>
+<td width="100%">
 <h3 align="center">Web Coffee</h3>
 <div align="center">                                       
-<a href="https:" target="_blank"><img src="coffee.png" width="400" alt="Coffee"></a>
+<a href="https://adriana-rojas0.github.io/Web-Cafe/" target="_blank"><img src="coffee.png" width="80%" alt="Coffee"></a>
 <br>
 <p>
 <a href="https://adriana-rojas0.github.io/Web-Cafe/" target="_blank">
@@ -106,17 +108,18 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 <img src="https://img.shields.io/badge/Ver_en_GitHub-E6A756?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p>Este proyecto es una <strong>plataforma web adaptable, desarrollada con Django</strong>, que recrea la experiencia digital de un café contemporáneo. La aplicación cuenta con una galería de productos, un formulario de contacto interactivo y un panel de administración intuitivo. Con un backend robusto en Python/Django, el sistema gestiona pedidos y consultas de manera eficiente, asegurando un entorno ágil y seguro para su despliegue en producción.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+</div>  
+</td>
+</tr> 
+</table>   
+ 
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 <h3 align="center">Store</h3>
 <div align="center">
-<a href="https://" target="_blank"><img src="store.png" width="400" alt="Store"></a>
+<a href="https://adriana-rojas0.github.io/Store/" target="_blank""><img src="store.png" width="80%" alt="Store"></a>
 <p>
 <a href="https://adriana-rojas0.github.io/Store/" target="_blank">
 <br>
@@ -124,13 +127,16 @@ Creando soluciones web efectivas y atractivas que mejoran la experiencia del usu
 </p>
 <p>Esta web es una <strong>tienda online de guitarras construida con React</strong>. Permite a los usuarios ver una colección de guitarras, agregarlas a un carrito de compras, modificar la cantidad de cada producto, eliminar productos del carrito y vaciar el carrito por completo. El estado del carrito y la colección de productos se maneja con React hooks. El diseño está basado en Bootstrap y estilos personalizados definidos en App.css. La aplicación se inicia desde main.jsx y se configura con Vite para un desarrollo rápido.</p>
 </div>
-                                                                                      
-</td>       
+</td>
+</tr>                                                                                     
+</table>       
 
-<td width="50%">
+<table>
+<tr>
+<td width="100%">
 <h3 align="center">Portfolio</h3>
 <div align="center">
-<a href="" target="_blank"><img src="porfolio.png" width="400" alt="portfolio"></a>
+<a href="https://github.com/Adriana-Rojas0 target="_blank"><img src="porfolio.png" width="80%" alt="portfolio"></a>
 <p>
 <a href="https://github.com/Adriana-Rojas0 target="_blank">
 <br>
@@ -141,14 +147,15 @@ Soy una apasionada del desarrollo web con experiencia en la creación de interfa
 En este sitio muestro no solo lo que he construido, sino también mi visión sobre la creación de experiencias digitales que marquen la diferencia. Explora mi trabajo y descubre cómo puedo aportar valor a nuevos desafíos.</p>
 </div>                                                                                    
 </td> 
+</tr>
 </table> 
 
 <table>
- <div>
-  <td width="50%">
+<tr>
+<td width="100%">
 <h3 align="center">Calculator</h3>
 <div align="center">
-<a href="" target="_blank"><img src="calculator.png" width="400" alt="portfolio"></a>
+<a href="https://github.com/Adriana-Rojas0 target="_blank"><img src="calculator.png" width="80%" alt="portfolio"></a>
 <p>
 <a href="https://github.com/Adriana-Rojas0 target="_blank">
 <br>
@@ -157,12 +164,14 @@ En este sitio muestro no solo lo que he construido, sino también mi visión sob
 <p><strong>Calculator, React/TypeScript.</strong> Esta web es una calculadora de propinas desarrollada con <strong>React y TypeScript</strong>. Permite a los usuarios seleccionar productos de un menú, agregarlos a una orden, ver el resumen de lo pedido, elegir el porcentaje de propina y calcular el total a pagar, incluyendo la propina. La interfaz está dividida en dos partes: el menú de productos y el resumen de la orden, donde se puede modificar la selección y calcular el pago final. Para los estilos visuales se utiliza <strong>Tailwind CSS</strong>. Es una herramienta moderna y visualmente atractiva, ideal para calcular fácilmente el pago total en restaurantes o cafeterías.</p>
 </div>                                                                                    
 </td> 
- </div>
- <div>
-  <td width="50%">
+</tr>
+</table>
+
+<table>
+<td width="100%">
 <h3 align="center">Máquinas Virtuales</h3>
 <div align="center">
-<a href="" target="_blank"><img src="VirtualBox_Ubuntu.png" width="400" alt="portfolio"></a>
+<a href="https://github.com/Adriana-Rojas0 target="_blank"><img src="VirtualBox_Ubuntu.png" width="80%" alt="portfolio"></a>
 <p>
 <a href="https://github.com/Adriana-Rojas0" target="_blank">
 <br>
@@ -171,9 +180,8 @@ En este sitio muestro no solo lo que he construido, sino también mi visión sob
 <p><strong>Máquinas Virtuales, Servidores Web (Apache)</strong> La creación de MVpermiten ejecutar un sistema operativo y aplicaciones como si estuvieran en un hardware físico independiente. Además, la implementación de un virtual hot y medidas de seguridad como HTTPS, SST y la desactivación del listado de directorios ayuda a proteger la información de los usuarios y garantiza la confiabilidad del sitio web. En general, las MV facilitan el desarrollo de aplicaciones y sitios web, ofreciendo un entorno seguro y eficiente.</p>
 </div>                                                                                    
 </td> 
- </div>
+</tr>
 </table>
-</div>
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
